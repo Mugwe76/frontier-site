@@ -1,2 +1,0 @@
-# frontier-site
-testing frontier
